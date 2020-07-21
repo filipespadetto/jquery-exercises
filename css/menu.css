@@ -5,6 +5,7 @@ body {
 .menu-principal {
     min-width: 500px;
     text-align: center;
+    margin-top: 5%;
 }
 
 .menu-principal h1 {
